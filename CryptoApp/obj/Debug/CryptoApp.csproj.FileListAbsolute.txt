@@ -1,0 +1,14 @@
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\bin\Debug\CryptoApp.pdb
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csprojResolveAssemblyReference.cache
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\MainWindow.g.cs
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\App.g.cs
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.cache
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.lref
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\MainWindow.baml
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.g.resources
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.Cache
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
+D:\code\Repository\Console.Dev\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
